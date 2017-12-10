@@ -2,7 +2,7 @@
 
 ## Instructions
 
-A palindrom is a sentence that reads the same backwards and forwards: "Was it a car or a cat I saw?"
+A palindrome is a sentence that reads the same backwards and forwards: "Was it a car or a cat I saw?"
 
 Reverse each word in a sentence and display it on the screen in the same order. For example, the sentence `This is an example` would become `siht si na elpmaxe`. If the word is a palindrome, have it display in red.
 
