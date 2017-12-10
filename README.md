@@ -20,9 +20,3 @@ Reverse each word in a sentence and display it on the screen in the same order. 
   * "Otto bought a racecar he cannot afford."
   * "Otto lost the deed to his house."
   * "Otto needs Xanax."
-
-## Starter Code
-
-Here is some HTML to get you started. You will not have to edit it.
-
-```
